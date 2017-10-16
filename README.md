@@ -85,15 +85,4 @@ Running this command will connect to your installed database server and execute 
 
 6. On your virtual machine, run:
 		news ==> python.newsdata.py
-# LogsAnalysis
-# LogsAnalysis
-# LogsAnalysis
-# LogsAnalysis
-# LogsAnalysis
-# Logs_Analysis
-# Logs_Analysis
-# Logs_Analysis
-# LogsAnalysis
-# LogsAnalysis
-# LogsAnalysis
-# Logs--Analysis--
+
